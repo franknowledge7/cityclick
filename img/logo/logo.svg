@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="972"
+   height="603"
+   viewBox="72 152 324 201"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r"
+   sodipodi:docname="logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   id="svg3447"
+   version="1.1">
+  <defs
+     id="defs3474">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4373">
+      <stop
+         style="stop-color:#004455;stop-opacity:1"
+         offset="0"
+         id="stop4375" />
+      <stop
+         style="stop-color:#00aad4;stop-opacity:1"
+         offset="1"
+         id="stop4377" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4373"
+       id="radialGradient4379"
+       cx="371.66748"
+       cy="672.74518"
+       fx="371.66748"
+       fy="672.74518"
+       r="481.13911"
+       gradientTransform="matrix(-0.14282957,-0.0081514,0.00948306,-0.16616195,316.87518,317.01271)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1003"
+     id="namedview3472"
+     showgrid="false"
+     inkscape:zoom="0.46634685"
+     inkscape:cx="262.79833"
+     inkscape:cy="385.22851"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata3449">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="retangulo" />
+  <g
+     inkscape:label="espiral"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="diagonais">
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3372"
+       width="50.034286"
+       height="50.034286"
+       x="80.836334"
+       y="161.06361"
+       inkscape:export-filename="/var/www/html/educapp/images/android-chrome-192x192.png"
+       inkscape:export-xdpi="115.12103"
+       inkscape:export-ydpi="115.12103" />
+    <g
+       id="g4430"
+       inkscape:export-filename="/var/www/html/educapp/images/logo/logo-100x62.png"
+       inkscape:export-xdpi="22.615213"
+       inkscape:export-ydpi="22.615213"
+       transform="translate(-83.628741,44.316085)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 249.13009,201.51169 18.8909,0.0481 0.0634,-18.83745 c -11.06978,-0.003 -18.96116,8.63439 -18.9543,18.7894 z m 11.7868,12.25896 0.0425,-11.59722 -11.73732,0.0252 c 0.21014,6.87328 6.46427,11.57214 11.69485,11.57202 z m 0.30442,0.0487 c 5.31555,0.20707 8.03345,-5.2786 6.74675,-7.59704 l -6.72851,-0.0908 z m 38.25863,-0.35556 c 0.43167,-12.27429 -10.28992,-30.95305 -30.80752,-30.76335 l -0.29188,30.89953 z m -51.07503,51.35334 0.15868,-82.12662 c -25.56195,8.94648 -53.11969,7.91399 -82.05935,-0.0281 0.24905,55.95103 50.84427,82.23619 81.90067,82.15475 z m 0.79977,0.0908 c 22.68311,-0.13307 50.17784,-18.29109 50.33068,-50.57544 l -50.32871,-0.007 z"
+         style="fill:url(#radialGradient4379);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33333334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4383" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.91212654px;line-height:125%;font-family:'Great Heights BRK';-inkscape-font-specification:'Great Heights BRK, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#16502d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="90.744217"
+       y="331.24988"
+       id="text4398"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4400"
+         x="90.744217"
+         y="331.24988">Natural Sciences</tspan></text>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/fran/trabajos/natural science/logo/banner.png"
+       id="g3343"
+       transform="matrix(0.35253884,0,0,0.35253884,170.34992,116.83727)"
+       style="fill:#cccccc">
+      <path
+         id="path3345"
+         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33333334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 249.13009,201.51169 18.8909,0.0481 0.0634,-18.83745 c -11.06978,-0.003 -18.96116,8.63439 -18.9543,18.7894 z m 11.7868,12.25896 0.0425,-11.59722 -11.73732,0.0252 c 0.21014,6.87328 6.46427,11.57214 11.69485,11.57202 z m 0.30442,0.0487 c 5.31555,0.20707 8.03345,-5.2786 6.74675,-7.59704 l -6.72851,-0.0908 z m 38.25863,-0.35556 c 0.43167,-12.27429 -10.28992,-30.95305 -30.80752,-30.76335 l -0.29188,30.89953 z m -51.07503,51.35334 0.15868,-82.12662 c -25.56195,8.94648 -53.11969,7.91399 -82.05935,-0.0281 0.24905,55.95103 50.84427,82.23619 81.90067,82.15475 z m 0.79977,0.0908 c 22.68311,-0.13307 50.17784,-18.29109 50.33068,-50.57544 l -50.32871,-0.007 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g3363"
+       transform="translate(-105.4294,-55.906574)"
+       inkscape:export-filename="/home/fran/trabajos/natural science/logo/banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#cccccc">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.16666698px;line-height:125%;font-family:'Bendable BRK';-inkscape-font-specification:'Bendable BRK, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="427.24344"
+         y="255.79053"
+         id="text3365"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3367"
+           x="427.24344"
+           y="255.79053">Animacion grafica</tspan></text>
+      <path
+         style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:0.33333334px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 422.69362,251.14448 3.93127,-4.63328 -0.42121,3.08886 z"
+         id="path3369"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3371"
+         d="m 448.37743,250.4297 3.93127,-4.63328 -0.42121,3.08886 z"
+         style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:0.33333334px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="fill:#cccccc"
+       transform="matrix(0.59759734,0,0,0.59759734,174.34346,146.41095)"
+       id="g3373"
+       inkscape:export-filename="/var/www/html/portafolioShop/images/logopq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 249.13009,201.51169 18.8909,0.0481 0.0634,-18.83745 c -11.06978,-0.003 -18.96116,8.63439 -18.9543,18.7894 z m 11.7868,12.25896 0.0425,-11.59722 -11.73732,0.0252 c 0.21014,6.87328 6.46427,11.57214 11.69485,11.57202 z m 0.30442,0.0487 c 5.31555,0.20707 8.03345,-5.2786 6.74675,-7.59704 l -6.72851,-0.0908 z m 38.25863,-0.35556 c 0.43167,-12.27429 -10.28992,-30.95305 -30.80752,-30.76335 l -0.29188,30.89953 z m -51.07503,51.35334 0.15868,-82.12662 c -25.56195,8.94648 -53.11969,7.91399 -82.05935,-0.0281 0.24905,55.95103 50.84427,82.23619 81.90067,82.15475 z m 0.79977,0.0908 c 22.68311,-0.13307 50.17784,-18.29109 50.33068,-50.57544 l -50.32871,-0.007 z"
+         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33333334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3375" />
+    </g>
+    <g
+       style="fill:#cccccc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/var/www/html/portafolioShop/images/logopq.png"
+       transform="matrix(1.6951248,0,0,1.6951248,-410.63778,-107.63914)"
+       id="g3377">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3379"
+         y="255.79053"
+         x="427.24344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.16666698px;line-height:125%;font-family:'Bendable BRK';-inkscape-font-specification:'Bendable BRK, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="255.79053"
+           x="427.24344"
+           id="tspan3381"
+           sodipodi:role="line">Animacion grafica</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3383"
+         d="m 422.69362,251.14448 3.93127,-4.63328 -0.42121,3.08886 z"
+         style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:0.33333334px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:0.33333334px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 448.37743,250.4297 3.93127,-4.63328 -0.42121,3.08886 z"
+         id="path3385"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#cccccc"
+       transform="matrix(0.35079511,0,0,0.35253884,24.111265,107.1878)"
+       id="g3368"
+       inkscape:export-filename="/home/fran/trabajos/natural science/logo/banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 249.13009,201.51169 18.8909,0.0481 0.0634,-18.83745 c -11.06978,-0.003 -18.96116,8.63439 -18.9543,18.7894 z m 11.7868,12.25896 0.0425,-11.59722 -11.73732,0.0252 c 0.21014,6.87328 6.46427,11.57214 11.69485,11.57202 z m 0.30442,0.0487 c 5.31555,0.20707 8.03345,-5.2786 6.74675,-7.59704 l -6.72851,-0.0908 z m 38.25863,-0.35556 c 0.43167,-12.27429 -10.28992,-30.95305 -30.80752,-30.76335 l -0.29188,30.89953 z m -51.07503,51.35334 0.15868,-82.12662 c -25.56195,8.94648 -53.11969,7.91399 -82.05935,-0.0281 0.24905,55.95103 50.84427,82.23619 81.90067,82.15475 z m 0.79977,0.0908 c 22.68311,-0.13307 50.17784,-18.29109 50.33068,-50.57544 l -50.32871,-0.007 z"
+         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33333334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3370" />
+    </g>
+  </g>
+</svg>
